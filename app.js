@@ -1,5 +1,5 @@
-function sum(a,b){
-    return a + b;
+function sum(p,q){
+    return (p + q) * 2;
 }
 
 let ans = sum(5,10);
