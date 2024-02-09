@@ -3,11 +3,11 @@ function sum(p,q){
 }
 
 let ans = sum(5,10);
-console.log(ans);
+console.log("The is Double in value",ans);
 
 let ans2 = sum(10,20);
-console.log(ans2);
+console.log("The is Double in value",ans2);
 
 let ans3 = sum(45,10);
-console.log(ans);
+console.log("The is Double in value",ans);
 
